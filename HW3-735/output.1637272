@@ -1,0 +1,10 @@
+list= 2^4 thread =2^1 
+List Size = 16, Threads = 2, error = 0, time (sec) =   0.0056, qsort_time =   0.0000
+list= 2^4 thread =2^2 
+List Size = 16, Threads = 4, error = 0, time (sec) =   0.0061, qsort_time =   0.0000
+list= 2^4 thread =2^3 
+List Size = 16, Threads = 8, error = 0, time (sec) =   0.0062, qsort_time =   0.0000
+list= 2^20 thread =2^4 
+List Size = 1048576, Threads = 16, error = 0, time (sec) =   0.0266, qsort_time =   0.1723
+list= 2^24 thread =2^8 
+List Size = 16777216, Threads = 256, error = 0, time (sec) =   0.5315, qsort_time =   3.4723

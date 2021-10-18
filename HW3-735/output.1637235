@@ -1,0 +1,42 @@
+k=12, q=0 
+List Size = 4096, Threads = 1, error = 0, time (sec) =   0.5142, qsort_time =   0.0010
+k=12, q=1 
+List Size = 4096, Threads = 2, error = 0, time (sec) =   0.0377, qsort_time =   0.0010
+k=12, q=2 
+List Size = 4096, Threads = 4, error = 0, time (sec) =   0.0062, qsort_time =   0.0008
+k=12, q=4 
+List Size = 4096, Threads = 16, error = 0, time (sec) =   0.0085, qsort_time =   0.0009
+k=12, q=6 
+List Size = 4096, Threads = 64, error = 0, time (sec) =   0.0196, qsort_time =   0.0006
+k=12, q=8 
+List Size = 4096, Threads = 256, error = 0, time (sec) =   0.0978, qsort_time =   0.0004
+k=12, q=10 
+List Size = 4096, Threads = 1024, error = 0, time (sec) =  11.6186, qsort_time =   0.0005
+k=20, q=0 
+List Size = 1048576, Threads = 1, error = 0, time (sec) =   0.1820, qsort_time =   0.1719
+k=20, q=1 
+List Size = 1048576, Threads = 2, error = 0, time (sec) =   0.1009, qsort_time =   0.1716
+k=20, q=2 
+List Size = 1048576, Threads = 4, error = 0, time (sec) =   0.0581, qsort_time =   0.1724
+k=20, q=4 
+List Size = 1048576, Threads = 16, error = 0, time (sec) =   0.0260, qsort_time =   0.1728
+k=20, q=6 
+List Size = 1048576, Threads = 64, error = 0, time (sec) =   0.0348, qsort_time =   0.1726
+k=20, q=8 
+List Size = 1048576, Threads = 256, error = 0, time (sec) =   0.2202, qsort_time =   0.2933
+k=20, q=10 
+List Size = 1048576, Threads = 1024, error = 0, time (sec) =  11.7177, qsort_time =   0.2464
+k=28, q=0 
+List Size = 268435456, Threads = 1, error = 0, time (sec) =  62.6953, qsort_time =  62.7055
+k=28, q=1 
+List Size = 268435456, Threads = 2, error = 0, time (sec) =  32.0182, qsort_time =  62.6450
+k=28, q=2 
+List Size = 268435456, Threads = 4, error = 0, time (sec) =  16.2035, qsort_time =  62.6191
+k=28, q=4 
+List Size = 268435456, Threads = 16, error = 0, time (sec) =   4.1877, qsort_time =  62.6473
+k=28, q=6 
+List Size = 268435456, Threads = 64, error = 0, time (sec) =   2.0839, qsort_time =  63.0719
+k=28, q=8 
+List Size = 268435456, Threads = 256, error = 0, time (sec) =   2.3681, qsort_time =  62.8470
+k=28, q=10 
+List Size = 268435456, Threads = 1024, error = 0, time (sec) =   4.3522, qsort_time =  62.9286

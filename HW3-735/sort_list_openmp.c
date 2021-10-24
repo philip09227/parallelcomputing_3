@@ -252,7 +252,8 @@ int main(int argc, char *argv[]) {
     clock_gettime(CLOCK_REALTIME, &start);
 
 // Serial merge sort 
-    
+   // OMP_PLACES=cores;
+    //OMP_PROC_BIND=close;   
     #pragma omp parallel num_threads(num_threads) 
     sort_list(q);
 
